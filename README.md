@@ -20,7 +20,7 @@
     git clone git@github.com:Caleb411/nuaa-health.git
     ```
 
-  + 修改`config.json`中的学号和密码
+  + 修改`config.json`中的学号，密码，[Server酱](http://sc.ftqq.com/3.version)秘钥（用于微信推送打卡是否成功）
 
 + 直接运行脚本或创建定时任务
 
@@ -28,7 +28,7 @@
     python daka.py
     ```
 
-  + https://www.cnblogs.com/gcgc/p/11594467.html
+  + [windows中怎么添加定时任务](https://www.cnblogs.com/gcgc/p/11594467.html)
 
 ![nuaa-health](https://cdn.jsdelivr.net/gh/Caleb411/image@main/20201223/nuaa-health.jpg)
 
