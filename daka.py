@@ -16,6 +16,8 @@ try:
     time.sleep(5)
     browser.find_element_by_xpath('/html/body/div[1]/div/div/section/div[4]/ul/li[7]/div/input').click()
     time.sleep(5)
+    browser.find_element_by_xpath('/html/body/div[1]/div/div/section/div[4]/ul/li[8]/div/div/div[4]').click()
+    time.sleep(5)
     browser.find_element_by_xpath('/html/body/div[1]/div/div/section/div[5]/div/a').click()
     time.sleep(5)
     browser.find_element_by_xpath('//*[@id="wapcf"]/div/div[2]/div[2]').click()
